@@ -18,7 +18,7 @@
   *Image credits: http://kepler.nasa.gov/Mission/discoveries/discoverygraphics/*
 
   3. **Kepler Telescope**:
-  - NASA deployed the Kepler Telescope to measure the brightness of stars in distant galaxies to detect exoplanets by observing variations in star's a brightness.
+  - NASA deployed the Kepler Telescope to measure the brightness of stars in distant galaxies to detect exoplanets by observing variations in a star's brightness.
   - **Transit Method**: When an exoplanet transits in front of its star (from our perspective), the brightness recorded by Kepler decreases. Conversely, when the exoplanet moves behind the star, the brightness level increases.
   - Detection: This method identifies exoplanets by detecting periodic dips in the star's brightness, forming a wave-like pattern on a brightness-time graph.
 
